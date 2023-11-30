@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <array name="your_dropdown_items">
+            <item>General</item>
+            <item>Appointments</item>
+            <item>Shopping</item>
+            <item>Work</item>
+            <item>Entertainment</item>
+            <item>Finance</item>
+            <item>Travel</item>
+            <item>Personal</item>
+        </array>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858021698947",
+    "project_id": "reminder-app-c0496",
+    "storage_bucket": "reminder-app-c0496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858021698947:android:5f6bd512a3b9dc1016eab6",
+        "android_client_info": {
+          "package_name": "edu.qc.seclass.rlm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_PI_0Vjw8e6L0hZN6N9Bkcd7EHfo_kAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
